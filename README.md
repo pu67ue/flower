@@ -78,7 +78,7 @@
             margin-bottom: 20px;
         }
 
-        input[type="password"] {
+        input[type="วันครบรอบ"] {
             width: 100%;
             max-width: 250px;
             background: #ffffff;
@@ -94,7 +94,7 @@
             border-radius: 12px;
         }
 
-        input[type="password"]:focus {
+        input[type="วันครบรอบ"]:focus {
             border-color: var(--accent-cyan);
             box-shadow: 0 0 12px rgba(2, 132, 199, 0.25);
         }
